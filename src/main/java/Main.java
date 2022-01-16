@@ -8,11 +8,11 @@ public class Main  {
         System.out.println(begruessung.gethi());
 
         JFrame hibox = new JFrame("Willkommen Michael");
-        hibox.setSize(350,350);
+        hibox.setSize(350,300);
         hibox.setLocationRelativeTo(null);
         hibox.add(new Panel(), BorderLayout.CENTER);
         hibox.setVisible(true);
-git 
+
     }
 }
 
